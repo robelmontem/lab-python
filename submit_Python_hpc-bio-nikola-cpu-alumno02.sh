@@ -8,7 +8,6 @@
 
 module load anaconda/2025.06
 
-$
 ipython reduc-operation-alumno02.ipynb $1
 
 module unload anaconda/2025.06
